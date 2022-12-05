@@ -12,7 +12,7 @@ I have BSc in Mathematics and MSc in Data Sciene and currently work as Data Scie
 ## Other Common Github Profile Sections
 🧠 I love learning new things and develop my knowledge.
 
-⚡️ FMy goal is to expand my knowledge from ML to AI and cloud.
+⚡️ My goal is to expand my knowledge from ML to AI and deploy both of them on the cloud.
 
 
 ## 🛠 Skills
