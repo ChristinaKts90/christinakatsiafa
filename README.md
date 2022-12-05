@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm Christina! 👋
 
-<!--
-**Christinakatsiafa/christinakatsiafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I have BSc in Mathematics and MSc in Data Sciene and currently work as Data Scientist since 2019.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Christinakatsiafa)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-katsiafa-1827b612b/)
+
+## Other Common Github Profile Sections
+🧠 I love learning new things and develop my knowledge.
+
+⚡️ FMy goal is to expand my knowledge from ML to AI and cloud.
+
+
+## 🛠 Skills
+1.  Machine Learning
+2.  Statistics
+3.  Mathematics
+4.  Python
+5.  R
+6.  SQL
+7.  Earnix
